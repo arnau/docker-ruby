@@ -1,5 +1,7 @@
 # Dockerized Ruby for non-root processes
 
+[![Docker Repository on Quay.io](https://quay.io/repository/arnau/ruby/status "Docker Repository on Quay.io")](https://quay.io/repository/arnau/ruby)
+
 # Versions
 
 * 2.1.5, latest
